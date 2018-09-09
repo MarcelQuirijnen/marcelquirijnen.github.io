@@ -1,0 +1,223 @@
+@import url(../css/marcelq.font.css);
+.hidden {
+  visibility: hidden; }
+
+.print {
+  display: none; }
+
+.my_footer {
+  color: #bdc1c5;
+  font-size: 12px;
+  text-align: center;
+  padding: 0;	
+}
+
+h1.headline {
+  padding: 32px 0;
+  text-align: center;
+  font-size: 80px;
+  font-weight: 900;
+  letter-spacing: -2px;
+  line-height: 100px;
+  width: 100%; }
+  h1.headline small {
+    color: #95a5a6;
+    display: block;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    padding-top: 5px; }
+
+h2 span.icon {
+  width: 32px; }
+
+.span3 h3 {
+  font-size: 16px;
+  font-weight: 900;
+  line-height: 32px; }
+  .span3 h3 small {
+    color: #95a5a6;
+    display: block;
+    font-size: 14px;
+    font-weight: 700; }
+
+p.believes {
+  font-style: italic;
+}
+p.ppsstt {
+	font-style: italic;
+    color: #95a5a6;
+    font-size: 11px;	
+}
+#personal > table, #snapshot > table, #presence > table, #qualifications > table {
+  width: 100%; }
+  #personal > table tr, #snapshot > table tr, #presence > table tr, #qualifications > table tr {
+    border-top: 1px solid #95a5a6; }
+    #personal > table tr.last, #snapshot > table tr.last, #presence > table tr.last, #qualifications > table tr.last {
+      border-bottom: 1px solid #95a5a6; }
+    #personal > table tr th, #snapshot > table tr th, #presence > table tr th, #qualifications > table tr th {
+      text-align: left;
+      color: #95a5a6; }
+    #personal > table tr td, #snapshot > table tr td, #presence > table tr td, #qualifications > table tr td {
+      width: 50%; }
+
+.resume {
+  display: none; }
+
+#skills .span1 {
+  font-size: 48px;
+  width: 60px;
+  min-height: 60px;
+  margin-top: 50px; }
+#skills .span5 h3 {
+  font-size: 18px; }
+
+#qualifications td {
+  font-size: 0px;
+  color: #95a5a6;
+  text-align: center; }
+  #qualifications td span {
+    font-size: 24px; }
+    #qualifications td span.level {
+      font-size: 24px;
+      color: #34495e; }
+
+#experience > ul {
+  border-left: 10px solid #95a5a6;
+  padding: 0;
+  margin: 0 0 0 212px; }
+  #experience > ul > li {
+    list-style-type: none;
+    border: 4px solid #95a5a6;
+    border-radius: 10px;
+    position: relative;
+    margin: 20px 0 0 30px; }
+    #experience > ul > li:first-child {
+      margin-top: 0; }
+#experience .date {
+  margin-left: -256px;
+  position: absolute;
+  top: 50%;
+  left: 0; }
+#experience .circle {
+  position: absolute;
+  top: 50%;
+  display: block;
+  background: #fff;
+  border: 5px solid #95a5a6;
+  border-radius: 10px;
+  width: 10px;
+  height: 10px;
+  margin-left: -50px; }
+#experience .content {
+  padding: 10px; }
+  #experience .content:before, #experience .content:after {
+    border: 20px solid transparent;
+    margin-top: -10px;
+    top: 50%;
+    content: "";
+    position: absolute; }
+  #experience .content:before {
+    border-right-color: #95a5a6;
+    margin-left: -50px; }
+  #experience .content:after {
+    border-right-color: white;
+    margin-left: -45px; }
+  #experience .content > h3 > small {
+    margin-left: 10px; }
+  #experience .content > ul {
+    margin: 0;
+    list-style: none; }
+
+body {
+  padding-bottom: 32px; }
+
+@media all and (max-width: 939px), print {
+  .container {
+    max-width: 500px; }
+
+  .span6 {
+    width: 480px; }
+
+  .row, .span7, .span8, .span9, .span10, .span11, .span12 {
+    max-width: 480px; }
+
+  h1.headline {
+    font-size: 48px;
+    padding: 8px 0;
+    line-height: 64px;
+    letter-spacing: -1px;
+    margin-left: 20px;
+    width: 480px; }
+    h1.headline small {
+      font-size: 18px;
+      letter-spacing: 0; }
+
+  .row {
+    margin-left: 0; }
+
+  #personal .home, #personal .computer, #personal .software {
+    display: none; }
+
+  #snapshot h2, #snapshot .skype {
+    display: none; }
+
+  #personal a, #snapshot a {
+    text-decoration: none; }
+  #personal a:after, #snapshot a:after {
+    content: ''; }
+
+  #teaser br, #teaser .hidden {
+    display: none; }
+
+  #teaser2 br, #teaser2 .hidden {
+    display: none; }
+
+  #teaser3 br, #teaser3 .hidden {
+    display: none; }
+
+  #teaser4 br, #teaser4 .hidden {
+    display: none; }
+
+  #print-flipper {
+    display: table; }
+
+  #qualifications {
+    display: table-header-group; }
+    #qualifications th {
+      width: 50%; }
+
+  #experience > ul {
+    border-left: 0;
+    margin: 0 0 0 20px; }
+    #experience > ul > li {
+      margin: 0;
+      border: 0; }
+      #experience > ul > li .content:before, #experience > ul > li .content:after {
+        border: 0; }
+      #experience > ul > li .content {
+        padding: 0; }
+      #experience > ul > li .circle {
+        display: none; }
+      #experience > ul > li .date {
+        display: inline;
+        margin: 0;
+        position: relative; }
+        #experience > ul > li .date:after {
+          content: ' at '; }
+      #experience > ul > li h3 {
+        text-align: center; }
+        #experience > ul > li h3 small {
+          display: block; } }
+@media print {
+  .print {
+    display: inherit; }
+
+  .headline.print {
+    page-break-before: always; }
+
+  .resume {
+    display: table-row; }
+
+  #qualifications td > span:not(.level) {
+    visibility: hidden; } }

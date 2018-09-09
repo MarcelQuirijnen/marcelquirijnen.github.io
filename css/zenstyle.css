@@ -1,0 +1,215 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    line-height: 1.5em;
+    font-family: 'Arimo', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Noto Serif', serif;
+    line-height: 1.5em;
+}
+
+h3 {
+    font-size: 175%;
+    line-height: 1.2em;
+}
+
+.l-box {
+    padding: 1em;
+}
+
+body .primary-button {
+    background: #02a6eb;
+    color: #fff;
+}
+
+.languages {
+    margin: 4em auto 0;
+    text-align: center;
+    font-size: 120%;
+}
+
+.splash {
+    padding: 10em 1em 10em 1em;
+    background-image: url('/static/img/zengarden_mini.jpg');
+    background-repeat: no-repeat;
+}
+
+.splash .splash-head {
+    font-size: 300%;
+    margin: 0;
+    line-height: 1.5em;
+    color: #fff;
+    background-color: #333;
+    text-align: center;
+
+}
+
+.splash .splash-subhead {
+    color: #fff;
+    font-weight: 300;
+    line-height: 1.4em;
+    font-size: 120%;
+    background-color: #666;
+    padding: 15px;
+    margin: 5px 0 5px 0;
+
+}
+
+.splash .splash-subhead a {
+    color: #aaaaaa;
+}
+
+.splash .primary-button {
+    font-size: 150%;
+}
+
+@media screen and (max-width: 650px) {
+    .splash {
+        padding: 4em 1em 4em 1em;
+    }
+
+    .splash-image {
+        text-align: center;
+    }
+
+    .splash .splash-head {
+        font-size: 150%;
+    }
+
+    .splash .splash-subhead {
+        font-size: 100%;
+    }
+
+    .pure-form input.email {
+        display: inline;
+    }
+}
+
+
+.content .content-subhead {
+    color: #111111;
+    padding-bottom: 0.3em;
+    text-transform: uppercase;
+    margin: 0;
+    border-bottom: 2px solid #eee;
+    display: inline-block;
+}
+
+.content .content-ribbon {
+    padding: 1em 1em 4em 1em;
+    border-bottom: 1px solid #eee;
+}
+
+.ribbon {
+    background: #eee;
+    text-align: center;
+    padding: 2em;
+    color: #999;
+}
+
+.ribbon h2 {
+    display: inline;
+    font-weight: normal;
+}
+
+.footer {
+    background: #111;
+    color: #666;
+    text-align: center;
+    padding: 1em;
+    font-size: 80%;
+}
+
+.reference {
+    background-color: darksalmon;
+    padding-bottom: 80px;
+}
+
+.imprint {
+    background-color: lightblue;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    color: #555555;
+    font-size: 90%;
+}
+
+.getnews {
+    background-color: lightblue;
+    padding-bottom: 60px;
+}
+
+.separator {
+    text-align: center;
+    font-size: 250%;
+    line-height: 1.2em;
+}
+
+.emailform {
+    text-align: center;
+    font-size: 150%;
+    line-height: 1.2em;   
+}
+
+.huge-button {
+    font-size: 150%;
+}
+
+.questions div {
+  padding: 30px;
+}
+
+.header {
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    text-align: center;
+}
+
+.header-row {
+    background-color: #2b0301;
+}
+
+.header a, .header a:hover,
+.header a:focus {
+    background: none;
+    border: none;
+    color: #eee;
+}
+
+.pure-g-r img.profile-image {
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    max-width: 120px;
+}
+
+.flag {
+    width: 25px;
+}
+
+.page {
+    padding: 1em 1em 4em 1em;
+    border-bottom: 1px solid #eee;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.page p + p {
+    text-indent: 2em;
+}
+
+.page h1 h2 h3 h4 {
+    margin-top: 1.8em;
+}
+
+.pure-g-r {
+    max-width: 1000px;
+    margin: auto;
+}
