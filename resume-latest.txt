@@ -8,23 +8,32 @@ SUMMARY - PROFILE
 * Code samples : https://bitbucket.org/sugarcreek
 
    Overall IT experience (mostly Unix/Linux, some MAC OS)       20 years
-   Technical Project Management/Team Lead                               4 years
-   Unix system administration (SGI, HP, Sun, Linux)                     8 years
-   Automation and monitoring				                                       3 years
-   C (system) programming                                                         12 years
-   Perl programming	(incl. mod_perl, Catalyst, Mason)               16 years
-   MySQL & Oracle development                                                 12 years
-   PHP Programming (Yii, Slim & Laravel frameworks) 		       12 years
-   Python programming (incl. Flask framework)                            5 years
-   AJAX, Bootstrap (web front-end tools like JQuery)	    	         6 years
-   Git/Subversion/Perforce                                                             8 years
-   Hardware & Electronics						                                      8 years
-   Ansible, Chef, Docker, NodeJS, Vagrant, Jenkins                       4 years
-   Jira, Confluence, Crucible					                                       3 years
+   Technical Project Management/Team Lead                        4 years
+   Unix system administration (SGI, HP, Sun, Linux)              8 years
+   Automation and monitoring				                     3 years
+   C (system) programming                                       12 years
+   Perl programming	(incl. mod_perl, Catalyst, Mason)           16 years
+   MySQL & Oracle development                                   12 years
+   PHP Programming (incl. Slim & Laravel frameworks)            12 years
+   Python programming (incl. Flask framework)                    5 years
+   AJAX, Bootstrap (web front-end tools like JQuery)	    	 6 years
+   Git/Subversion/Perforce                                       8 years
+   Hardware & Electronics						                 8 years
+   Ansible, Docker, Vagrant, Jenkins                             4 years
+   Jira, Confluence, Crucible					                 3 years
 
 WORK EXPERIENCE
 
-04/2019 -   : Wells Fargo Network Security - Charleston, SC
+01/2021 –  : Federal Reserve Bank of St.Louis, MO
+  Sr. Web Developer - Research Web Group Division - FRED Team (Full time, 100% remote)
+Responsibilities :
+  As a member of the FRED-Team, maintain, improve and secure the FRED-familty of websites related to economics data (https://fred.stlouisfed.org)
+Used skills and tools :
+  PHP, JQuery, Git, PostgreSQL
+Platforms : 
+  Windows 10, Red Hat 7 Enterprise, MAC OSX
+  
+04/2019 - 11/2020  : Wells Fargo Network Security - Charleston, SC
   (Perl)Web Developer V / ESPA Team Lead (Full time, 100% remote)
 Responsibilities :
   Develop web-based endpoint security solutions focused on network authentication protocol 802.1x using tools like Perl, AngularJS, ROSE ORM, Jira and rpmbuild
