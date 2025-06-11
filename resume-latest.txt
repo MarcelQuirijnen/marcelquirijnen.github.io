@@ -1,0 +1,233 @@
+SUMMARY - PROFILE
+ 
+* Expertise : (Unix/Linux/Web) application development and workflow automation using today's open source LAMP stack and DevOps tools
+* I have a can-do attitude and the ability to be hands on, mentor and work collaboratively and autonomously.
+* I try to be solution oriented with team members, stakeholders, and other applicable team members by continuously creating value
+* I am visible and available to team members who require support by understanding the tech and business requirements
+* Self-motivated and continuously learning new technologies to find the best solutions for all aspects of the businesses needs
+* Code samples : https://bitbucket.org/sugarcreek
+
+   Overall IT experience (mostly Unix/Linux, some MAC OS)       20 years
+   Technical Project Management/Team Lead                        4 years
+   Unix system administration (SGI, HP, Sun, Linux)              8 years
+   Automation and monitoring				                     3 years
+   C (system) programming                                       12 years
+   Perl programming	(incl. mod_perl, Catalyst, Mason)           16 years
+   MySQL & Oracle development                                   12 years
+   PHP Programming (incl. Slim & Laravel frameworks)            12 years
+   Python programming (incl. Flask framework)                    5 years
+   AJAX, Bootstrap (web front-end tools like JQuery)	    	 6 years
+   Git/Subversion/Perforce                                       8 years
+   Hardware & Electronics						                 8 years
+   Ansible, Docker, Vagrant, Jenkins                             4 years
+   Jira, Confluence, Crucible					                 3 years
+
+WORK EXPERIENCE
+
+01/2021 –  : Federal Reserve Bank of St.Louis, MO
+  Sr. Web Developer - Research Web Group Division - FRED Team (Full time, 100% remote)
+Responsibilities :
+  As a member of the FRED-Team, maintain, improve and secure the FRED-familty of websites related to economics data (https://fred.stlouisfed.org)
+Used skills and tools :
+  PHP, JQuery, Git, PostgreSQL
+Platforms : 
+  Windows 10, Red Hat 7 Enterprise, MAC OSX
+  
+04/2019 - 11/2020  : Wells Fargo Network Security - Charleston, SC
+  (Perl)Web Developer V / ESPA Team Lead (Full time, 100% remote)
+Responsibilities :
+  Develop web-based endpoint security solutions focused on network authentication protocol 802.1x using tools like Perl, AngularJS, ROSE ORM, Jira and rpmbuild
+Used skills and tools :
+  Perl, ROSE ORM, AngularJS, JSON, JQuery, SubVersion, MySQL, ActiveMQ, IBM MQSeries, Jenkins, uDeploy, Jira, Crucible, Confluence and rpmbuild
+Platforms : 
+  Windows 10, Red Hat 7 Enterprise
+
+03/2018 - 03/2019: PAM Transport - Tontitown, AR
+  Full Stack Web Developer (Full time, on-site)
+Responsibilities :
+  Develop web-based tools to support the transportation industry with their training requirements, scheduling needs and carrier and load brokerage services.
+Accomplishments :
+  * Created a daily "Power Only" Load Board, showing available loads per state, send out to subscribed carriers using the Elastic Email API, 
+     datamaps and VueJS (live link : https://www.pamtools.com/load/ppo)
+Used skills and tools :
+  PHP5 & 7, Laravel4 & 5, NodeJS, Vue2.js, Yarn, Webpack, JSON, JQuery, NginX, GitLab, VirtualBox, Vagrant, MySQL, DB2, Jenkins
+Platforms : 
+  Windows 7 Pro, Ubuntu Linux, VirtualBox Linux dev environment, AS400
+
+08/2017 - 02/2018 : Educational months - DevOps Staq, LLC - Yellville, AR
+  Self education
+Responsibilities :
+  Took a 6 months sabbatical to re-educate/update my skillset on the complete DevOps & Deployment Technologies stack, as well as NodeJS, Ruby, Python and Flask. 
+  Worked with Jenkins, Chef, Ansible, Docker and AWS CLI, CodeDeploy and CodePipeline.
+  Samples covering these subjects are in my bitbucket code repo mentioned earlier.
+Learning projects (bitbucket repo):
+	- Collect project ideas : RESTfull services using NodeJS and MongoDB
+	- Creating an item store : RESTfull API using Flask, FlaskRestful and SQLAlchemy
+	- Python solution to a Chess problem, including module tests
+	- Java implementation to handle large data query results (50+ million records), including code testing and Jenkins CI/CD automation.	
+
+03/2016 - 07/2017 : Optanix, Inc., Syracuse, NY
+  Sr. Developer - DevTools and Automation (Full time, 100% remote)
+Responsibilities :
+  As a member of the Rapid Innovation Team, I contribute to the further development of the Optanix SAAS platform using today's LAMP stack of tools and virtualization
+  technologies.
+  As a SSE I assisted the PM with picking next sprint objectives for Perl back-end tasks
+  Acted as the PM backup for daily standup meetings (Agile PM)
+  Contributed to the initial development of an HTTP Poller endpoint service using Tornado asynchronous python framework, together with RabbitMQ as its messaging 
+  system.
+Accomplishments :
+  * Improvement and extension of HealthCheck Indicators for network appliances for a variety of Fortune 500 customers.
+  * Automated builds of Ubuntu installation packages using Jenkins
+  * Had a Perl mentoring role and provided a webex talk on Perl best practices.
+  * Ported Perl network library modules to Ruby Gems.
+Used skills and tools :
+  Python 3, Perl, PHP, Ruby on Rails, C, shell scripts, Yii PHP Framework, JSON, Jquery, Apache, Git, ZeroMQ, VirtualBox, Docker, Jenkins, Agile development, LiquiBase, 
+  SonarQube, JIRA, Java and NodeJS task automation
+Platforms : 
+  Ubuntu Linux
+
+01/2015 - 10/2015 : JMA Information Technology, Overland Park, KS
+  PHP Back-end Developer (1099 contract, 100% remote)
+Responsibilities :			
+  Contributing to the creation of a network data portal for Verizon.
+- Created User Management system, complete with Role assignment, password management and activation/confirmation emails
+- Implemented a data wizard based of selecting networking equipment (routers, firewalls) and networking type (public, private, ..). 
+- Creation of a network validation script that checks for network configuration issues like overlapping subnets, conflicting IP's and unreachable subnets.
+Accomplishments :
+  * Have the data application go live on time and on budget after a major setback.
+  * Proof of compliancy with Verizon's Network Security Design Guidelines
+  * Setting up a RedHat failover architecture with load balancing and email services
+Used skills and tools :
+  PHP, Twig, Slim PHP framework, JSON, Idiorm, AngularJS, Gulp, lessc, Apache, Git/BitBucket, Nginx, Agile development, MySQL with master/slave replication, shell &
+  NodeJS scripting
+Platforms : 
+  Redhat Linux in VMWare environment
+  
+05/2011 - 12/2014 : Arkansas Blue Cross & Blue Shield, Little Rock, AR
+  PHP Back-end Web Developer (Full time, 80% remote)
+Responsibilities :
+  Development a Paperless Workflow & Electronic Routing System in a PHP Linux environment.
+  The web-based application enhances the processing of healthcare claims in AR, LA, MS, NM, RI, OK and MO and ties in to various enterprise technologies (Microsoft .net
+  services, IBM Mainframe, proprietary claims applications).
+  Required understanding of HIPAA regulations and how it impacts applications and data
+Accomplishments :
+  * Implemented web based claims processing services using XML and WSDL documents using SOAP protocol to communicate with mainframe and MS-based systems.
+Used skills and tools :
+  PHP, MySQL, Apache, SSL, JQuery, WSDL, SOAP, XML, JSON, Subversion(SVN), Zend Guard and bash shell scripting
+Platforms :
+  AIX Unix, Redhat Linux
+
+
+10/2008 - 05/2011 : The Daily Record, Inc., Little Rock, AR
+  Sr. Open Technology Engineer (Full time)
+Responsibilities :
+  * Setup and maintain Linux based servers used as backbone systems for newspaper data
+  * Setup in-house hosting of mail server using Bind9/tinyDNS, Postfix, Dovecot, MySQL, Horde groupware/webmail and staying current with whitelists and blacklists 
+     filters
+  * Virtualized servers with VirtualBox and/or VMware ESXi using OpenFiler
+  * Upgrade current web applications to be Web 2.0 look & feel using CodeIgniter, Ajax and XML output formats for Adobe publishing software.
+  * Monitoring DMZ servers using MRTG, Snort IDS and AWstats reporting
+  * Setup contingency plan with daily offsite data updates
+Accomplishments : 
+  * Saved $50K+/yr on hardware update expenses thanks to virtualization
+  * Implemented an automated contingency plan (after bad weather and theft experiences)
+  * Decreased legal liabilities with in-house email hosting
+Used skills and tools :
+  PHP, CodeIgnitor MVC Framework, MySQL, Apache, SSL, VPN, Ajax using Dojo/YUI/DhtmlXSuite, XML, Perl and shell scripting, C, Postfix, Dovecot, Horde groupware, 
+  SpamAssassin, MRTG, Nagios & Cacti, VirtualBox, ESXi, Bind9, OpenFiler, RAID disks, Linux and MacOS admin
+Platforms :
+  Debian Linux, MAC OS X
+
+07/2006 - 04/2008: ValueClick Media, Santa Barbara, CA
+  Perl Software Engineer (Full time)
+Responsibilities :
+  Developing web tools to connect advertisers and publishers and assist them to improve their internet advertising targets.
+Accomplishment :
+  Created tools to enable video advertising. First in the US.
+Used skills and tools :
+  Perl, mod_perl, MySQL, Apache, Mason, Catalyst, DBIx::Class, Perforce
+Platforms :
+  Linux (CentOS, Redhat)
+
+05/2005 - 07/2006  : Vonage, Holmdel, NJ
+  Call Processing/VOIP Engineer  (Pre-IPO, full time)
+Responsibilities :
+  Develop a set of tools (Perl + Expect, PHP, shell) to support production monitoring and call processing.
+Used skills and tools :
+   SSH, SSL, Perl, Expect, MySQL, SIP, Shell scripting, PHP, C, Nagios & Cacti
+Platforms :
+   Redhat Linux, CentOS Linux
+Accomplishments :
+   Significantly increase Vonage SIP IQ by an improvement of production monitoring, detection and reporting of anomalies using my tools. 
+   Thanks to this the production environment was turned into a well managed and reliable SIP network as we know it today.
+
+02/2004 - 04/2005 : Exxon Mobil Research & Engineering, Clinton, NJ
+  Unix/Linux System Administration & Scientific Application Support (W2 contract)
+Responsibilities :
+  * Unix/Linux System Configuration & Administration
+  * Setup & maintain a Linux Beowolf Cluster with 58 nodes running PBS queuing system, 4 nodes with graphic capabilities
+  * Install, Upgrade, Patch Unix/Linux systems through makefiles, yum and rpm
+  * Configure non-modular kernels from scratch
+  * Install & Config Scientific Applications (Matlab, Star-cd, NMR,...)
+  * Develop & maintain Unix automation scripts (Perl, Python, sh, bash, C)
+Used skills and tools :
+  SSH, SSL, Perl, Python, C/C++, R, Tk, Yum, rpmbuild, PowerBroker, Remedy ticketing, Shell scripting, Apache2, Tomcat5, XWin32, Exceed, Arkeia backup,
+  Veritas Netbackup
+Platforms :
+  RedHat Linux 7/9/Enterprise, SGI, HP, AIX, SUN Solaris, SUN OS, WinNT
+
+09/2003 - 12/2003 : Peregrine Computer Consultants Corp, Fairfax, VA
+  Perl Web Developer (Temp)
+Responsibilities :
+  Website development using Perl & MySQL.
+  Automate site creation and setup
+  Examples:  http://www.paws4people.org 
+             http://www.hbifreight.com
+Used skills and tools :
+  Perl, mod_perl, MySQL, Linux admin, ImageMagick, SSH, SSL, shell scripting
+Platforms :
+  Red Hat Linux
+  
+1996 - 2002 : Johnson & Johnson Pharmaceutical Research Institute (PRI), Belgium Europe
+  Software Engineer Scientific Applications - ChemInformatics (Full time)
+Responsibilities :
+  * Team Lead ChemInformatics R&D software development using Perl, Oracle and Apache
+  * Project Management scientific programming team (3 people). 
+  * Multi-lingual presentations for scientific audiences in France, Spain, Belgium, Germany and USA. 
+  * Oracle v7, v8, 8i DBA.
+  * Nominated for innovative IT use in a pharmaceutical R&D environment.
+Accomplishment : 
+  * Automated the NMR R&D lab, i.e. gather data from real time experiments, retrieve archived data from Oracle databases & flatfiles on different platforms (HP-UX,
+    SGI, NT, Vax) and present the results in a usable form to the NMR scientists. This automation package is currently used by JNJ Spain, France and Belgium and
+    consists of Unix shell scripts, Bruker-NMR macros, C and Pro-C routines.
+  * Created a greater visibility of the Discovery Department, leading to a major increase of compound selection business enterprise-wide and a job offer for me to
+    join the PRI ChemInformatics department in Raritan, NJ or La Jolla, CA USA.
+Used skills and tools :
+  3rd party ChemInformatics software (MSI, Daylight, BCI) & chemistry file formats (MDL, SD, TDT, SMI), Perl, Python, Tk/Tcl, C/C++ programming language, Shell
+  scripting, Web technology, JavaScript, cgi-bin, SSL, MS-Project, Oracle DBA/Developer skills (SQL*Loader, SQL*Net, SQL*Plus, PL/SQL), Unix & Linux admin
+Platforms :
+  SGI Irix, Sun OS, Sun Solaris, HP UX, SuSe and Red Hat Linux
+
+
+EDUCATION
+ 
+MS Computer Sciences, LUC university Belgium
+BS Information Technology & Programming, HORITO College Belgium
+BS Industrial/Power Electronics, HORITO College Belgium
+
+Independent courses (I can\'t say No to free/cheap education): 
+Business Innovation    			                    (University of Maryland)
+Interactive Programming in Python          (Rice University)
+Startup Engineering    			                    (Stanford University)
+Project Management			 	                  (Udemy, prepping for PMP exam)
+Computing for Data Analysis (R)	 	          (Bloomberg School of Public Health)
+AWS certified developer			                   (Linux Academy, NOT certified)
+Coding for Entrepreneurs (Django)	     	(Udemy)
+
+
+OTHER INTERESTS
+
+* Non-paid interests : Arduino, Raspberry Pi, solar technology, web application
+  security, foreign languages, Latin & Ballroom dancing, Chinese martial arts (Shaolin Kung
+  Fu and Tai Chi), beekeeping, US Tax code (former H&R Block seasonal associate) and cooking 
+  phenomenal food.
